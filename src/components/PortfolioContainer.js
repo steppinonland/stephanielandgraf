@@ -24,8 +24,10 @@ class Portfolio extends Component {
       return <Photos />;
     } else if (this.state.currentPage === "Port") {
       return <Port />;
-    } else {
+    } else if (this.state.currentPage === "Contact") {
       return <Contact />;
+    } else {
+      return <Home />;
     }
   };
 
