@@ -2,10 +2,8 @@ import React from "react";
 import "./photos.css"
 
 const Photos = () => (
-  <div>
-    <div className="jumbotron">
+  <div className="space">
     <h1>Photo Gallery</h1>
-</div>
 <div className="row-g"> 
   <div className="column-g">
     <div className="o-overlay">
