@@ -39,9 +39,7 @@ body .jumbotron {
 }
 
 .welcome-content h1 {
-  font-weight: 900;
-  font-size: 7em;
-  padding: 7%;
+  font-size: 75px;
   font-family: 'Staatliches', cursive;
   letter-spacing: .15em;
 }
