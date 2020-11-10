@@ -300,3 +300,8 @@ img {vertical-align: middle;}
 .sun-flower {
   color: #f1c40f;
 }
+.email {
+  font-size: larger;
+  letter-spacing: 1px;
+  font-family: 'Lato', sans-serif;
+}

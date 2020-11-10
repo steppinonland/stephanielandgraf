@@ -6,7 +6,7 @@ const Home = () => (
               <div className="welcome-content text-center">
                     <h1> Stephanie Landgraf</h1>
                     <h2>Fullstack Software Developer</h2>
-                    <h2>Email: stlandgraf1234@gmail.com</h2>
+                    <h2 class="email">Email: stlandgraf1234@gmail.com</h2>
                     <p>To know more about me, please visit my profiles below:</p>
               </div>
                <p className="sm-buttons">
